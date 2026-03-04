@@ -1,0 +1,5 @@
+{
+  "name": "Liga de Campeones EF",
+  "description": "Sistema de gamificación para Educación Física con gestión de alumnos, sesiones, XP, insignias y rankings.",
+  "requestFramePermissions": []
+}
